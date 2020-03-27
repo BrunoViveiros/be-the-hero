@@ -1,2 +1,6 @@
 node.js
 knex.js
+
+arrumar validators em pasta separada,
+fazer theme switcher
+fazer verificação de id
